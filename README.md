@@ -1,1 +1,1 @@
-check out <a href=index.html>index.html</a>
+Example HTML and CSS files for my introductory web design classes at Montana Tech.
